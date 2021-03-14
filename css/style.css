@@ -66,6 +66,15 @@ p {
   border-radius: 50%;
 }
 
+#timeline ul li img {
+  width: 100%;
+  margin-bottom: 0.5rem;
+}
+
+#timeline ul li .portfolio-img {
+  border: 1px solid #fff;
+}
+
 #timeline ul {
   background: var(--primary-color);
   padding: 50px 0;
