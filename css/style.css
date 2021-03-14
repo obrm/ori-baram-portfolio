@@ -29,8 +29,16 @@ a {
   text-decoration: underline;
 }
 
-.mb-n4 {
-  margin-bottom: -1.5rem !important;
+.mt-n {
+  margin-top: -2rem !important;
+}
+
+.mb-n {
+  margin-bottom: -1rem !important;
+}
+
+.mb-n3 {
+  margin-bottom: -3rem !important;
 }
 
 #main-header {
@@ -51,6 +59,11 @@ h1 {
 .container h1,
 p {
   color: var(--light-color);
+}
+
+.container img {
+  width: 10rem;
+  border-radius: 50%;
 }
 
 #timeline ul {
