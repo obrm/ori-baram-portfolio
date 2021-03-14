@@ -173,9 +173,15 @@ p {
   }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 768px) {
   #main-header {
     width: 100%;
+  }
+}
+
+@media (max-width: 600px) {
+  #main-header {
+    width: 110%;
   }
 
   #timeline ul li {
@@ -194,5 +200,11 @@ p {
     left: -15px;
     border-width: 8px 16px 8px 0;
     border-color: transparent var(--secondary-color) transparent transparent;
+  }
+}
+
+@media (max-width: 375px) {
+  #main-header {
+    width: 120%;
   }
 }
