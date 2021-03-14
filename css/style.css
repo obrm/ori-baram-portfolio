@@ -209,12 +209,12 @@ p {
 
 @media (max-width: 375px) {
   #main-header {
-    width: 102vw;
+    width: 140vw;
   }
 }
 
 @media (max-width: 320px) {
   #main-header {
-    width: 117vw;
+    width: 147vw;
   }
 }
