@@ -173,12 +173,12 @@ p {
   }
 }
 
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
   #main-header,
   #timeline {
     width: 117vw;
   }
-}
+} */
 
 @media (max-width: 600px) {
   #timeline ul li {
@@ -200,7 +200,7 @@ p {
   }
 }
 
-@media (max-width: 425px) {
+/* @media (max-width: 425px) {
   #main-header,
   #timeline {
     width: 91vw;
@@ -225,4 +225,4 @@ p {
   #main-header {
     width: 147vw;
   }
-}
+} */
