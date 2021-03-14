@@ -217,4 +217,8 @@ p {
   #main-header {
     width: 147vw;
   }
+
+  #timeline ul li div {
+    width: 23rem;
+  }
 }
