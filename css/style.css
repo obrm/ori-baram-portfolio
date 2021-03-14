@@ -203,17 +203,21 @@ p {
 @media (max-width: 425px) {
   #main-header,
   #timeline {
-    width: 117vw;
+    width: 91vw;
   }
 
   #timeline ul li div {
-    width: 23rem;
+    width: 17rem;
   }
 }
 
 @media (max-width: 375px) {
   #main-header {
-    width: 130vw;
+    width: 100vw;
+  }
+
+  #timeline ul li div {
+    width: 18rem;
   }
 }
 
