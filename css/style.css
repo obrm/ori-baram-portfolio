@@ -205,6 +205,10 @@ p {
   #timeline {
     width: 117vw;
   }
+
+  #timeline ul li div {
+    width: 25rem;
+  }
 }
 
 @media (max-width: 375px) {
