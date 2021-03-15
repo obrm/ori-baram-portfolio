@@ -66,6 +66,10 @@ p {
   border-radius: 50%;
 }
 
+#timeline {
+  overflow: hidden;
+}
+
 #timeline ul li img {
   width: 100%;
   margin-bottom: 0.5rem;
