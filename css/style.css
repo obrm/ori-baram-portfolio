@@ -185,6 +185,10 @@ p {
 } */
 
 @media (max-width: 600px) {
+  .first {
+    font-size: 80%;
+  }
+
   #timeline ul li {
     margin-left: 20px;
   }
