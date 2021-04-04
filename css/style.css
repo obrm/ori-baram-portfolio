@@ -29,6 +29,10 @@ a {
   text-decoration: underline;
 }
 
+.mt {
+  margin-top: 1rem !important;
+}
+
 .mt-n {
   margin-top: -2rem !important;
 }
@@ -44,6 +48,10 @@ a {
 #main-header {
   background: var(--secondary-color);
   padding: 4rem 0;
+}
+
+#main-header h4 {
+  margin: 0.2rem 0;
 }
 
 .container {
