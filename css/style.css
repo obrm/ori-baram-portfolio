@@ -216,6 +216,11 @@ p {
   }
 }
 
+@media (max-width: 320px) {
+  * {
+    font-size: 95%;
+  }
+}
 /* @media (max-width: 425px) {
   #main-header,
   #timeline {
@@ -227,15 +232,7 @@ p {
   }
 }
 
-@media (max-width: 375px) {
-  #main-header {
-    width: 100vw;
-  }
 
-  #timeline ul li div {
-    width: 18rem;
-  }
-}
 
 @media (max-width: 320px) {
   #main-header {
